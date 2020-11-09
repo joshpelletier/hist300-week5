@@ -16,3 +16,5 @@ Add multiple entries for "Additional Information"
 Use questions hints more frequently to direct what type of information should be accounted for (i.e. 'Additional notes about monument dimensions' with hint 'Taper, angle, etc')
 
 Make more questions answers in text form instead of numbers (Can add numbers via text answer but not vice versa)
+
+**Found the DEBS form too limiting, not enough room for additional specific comments**
